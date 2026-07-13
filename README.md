@@ -16,30 +16,38 @@
 
 ## 效果预览
 
-> 将截图放到 `docs/screenshots/` 后即可在此展示。
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="docs/screenshots/settings.png" alt="设置页" width="100%"/><br/>
-      <sub>设置页</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="docs/screenshots/agent.png" alt="智能体" width="100%"/><br/>
-      <sub>智能体界面</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="docs/screenshots/menu.png" alt="顶部菜单" width="100%"/><br/>
-      <sub>顶部菜单</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="docs/screenshots/editor.png" alt="编辑器" width="100%"/><br/>
-      <sub>编辑器界面</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="420" valign="top">
+        <a href="docs/screenshots/settings.png">
+          <img src="docs/screenshots/preview-settings.png" alt="设置页" width="400"/>
+        </a><br/>
+        <sub><b>设置页</b></sub>
+      </td>
+      <td align="center" width="420" valign="top">
+        <a href="docs/screenshots/agent.png">
+          <img src="docs/screenshots/preview-agent.png" alt="智能体" width="400"/>
+        </a><br/>
+        <sub><b>智能体界面</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="420" valign="top">
+        <a href="docs/screenshots/menu.png">
+          <img src="docs/screenshots/preview-menu.png" alt="顶部菜单" width="400"/>
+        </a><br/>
+        <sub><b>顶部菜单</b></sub>
+      </td>
+      <td align="center" width="420" valign="top">
+        <a href="docs/screenshots/editor.png">
+          <img src="docs/screenshots/preview-editor.png" alt="编辑器" width="400"/>
+        </a><br/>
+        <sub><b>编辑器界面</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 

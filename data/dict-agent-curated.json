@@ -1,0 +1,142 @@
+{
+  "generatedAt": "2026-07-10T02:16:36.600Z",
+  "count": 34,
+  "entries": [
+    {
+      "en": "A hook in your project configuration (.cursor/hooks.json) has blocked this operation.",
+      "zh": "项目配置 (.cursor/hooks.json) 中的钩子已阻止此操作。"
+    },
+    {
+      "en": "A hook in your user configuration (~/.cursor/hooks.json) has blocked this operation.",
+      "zh": "用户配置 (~/.cursor/hooks.json) 中的钩子已阻止此操作。"
+    },
+    {
+      "en": "Adjust the default behavior of sending a message while Agent is streaming",
+      "zh": "调整智能体流式响应时发送消息的默认行为"
+    },
+    {
+      "en": "Agent instructions; Type @ for tools, / for commands...",
+      "zh": "智能体指令；输入 @ 调用工具，/ 调用命令..."
+    },
+    {
+      "en": "Agent features require authentication. Please sign in.",
+      "zh": "智能体功能需要身份验证，请登录。"
+    },
+    {
+      "en": "A beforeSubmitPrompt hook blocked this submission.",
+      "zh": "beforeSubmitPrompt 钩子已阻止此次提交。"
+    },
+    {
+      "en": "A configured hook has blocked this operation.",
+      "zh": "已配置的钩子已阻止此操作。"
+    },
+    {
+      "en": "Agent is waiting for a command to finish.",
+      "zh": "智能体正在等待命令完成。"
+    },
+    {
+      "en": "Agent is waiting for commands to finish.",
+      "zh": "智能体正在等待命令完成。"
+    },
+    {
+      "en": "A team hook has blocked this operation.",
+      "zh": "团队钩子已阻止此操作。"
+    },
+    {
+      "en": "Agent Review: potential bug detected",
+      "zh": "智能体审查：检测到潜在问题"
+    },
+    {
+      "en": "Agent is using this terminal. It",
+      "zh": "智能体正在使用此终端。"
+    },
+    {
+      "en": "All changes from this Agent chat",
+      "zh": "此智能体聊天的所有更改"
+    },
+    {
+      "en": "Agent features require login.",
+      "zh": "智能体功能需要登录。"
+    },
+    {
+      "en": "Agent terminals are read-only",
+      "zh": "智能体终端为只读"
+    },
+    {
+      "en": "Agent encountered an error",
+      "zh": "智能体遇到错误"
+    },
+    {
+      "en": "Awaiting MCP tool approval",
+      "zh": "等待 MCP 工具批准"
+    },
+    {
+      "en": "Awaiting terminal approval",
+      "zh": "等待终端批准"
+    },
+    {
+      "en": "Agent Review cancelled",
+      "zh": "智能体审查已取消"
+    },
+    {
+      "en": "Agent Review Disabled",
+      "zh": "智能体审查已禁用"
+    },
+    {
+      "en": "Agent Review Settings",
+      "zh": "智能体审查设置"
+    },
+    {
+      "en": "Awaiting plan review",
+      "zh": "等待计划审查"
+    },
+    {
+      "en": "Awaiting review from",
+      "zh": "等待审查来自"
+    },
+    {
+      "en": "Agent conversations",
+      "zh": "智能体对话"
+    },
+    {
+      "en": "Agent disconnected",
+      "zh": "智能体已断开"
+    },
+    {
+      "en": "Agent is blocked",
+      "zh": "智能体已被阻止"
+    },
+    {
+      "en": "Awaiting Review",
+      "zh": "等待审查"
+    },
+    {
+      "en": "Agent Settings",
+      "zh": "智能体设置"
+    },
+    {
+      "en": "Agent Terminal",
+      "zh": "智能体终端"
+    },
+    {
+      "en": "Agent complete",
+      "zh": "智能体完成"
+    },
+    {
+      "en": "Agent blocked",
+      "zh": "智能体已阻止"
+    },
+    {
+      "en": "Agent history",
+      "zh": "智能体历史"
+    },
+    {
+      "en": "Agent Layout",
+      "zh": "智能体布局"
+    },
+    {
+      "en": "Agent Tabs",
+      "zh": "智能体标签页"
+    }
+  ]
+}

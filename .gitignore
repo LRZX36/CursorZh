@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.cursorzh.bak
+
+# local Cursor installers / dumps
+*.exe
+extracted/
+data/extracted-strings-*.json
+data/dict-candidates.json
+data/langpack/extracted/
+data/langpack/*.zip

@@ -1,0 +1,37 @@
+{
+  "name": "cursor-zh",
+  "version": "1.0.0",
+  "description": "非官方 Cursor 简体中文汉化补丁（适配 3.5.38）",
+  "main": "index.js",
+  "bin": {
+    "cursor-zh": "./index.js"
+  },
+  "scripts": {
+    "apply": "node index.js apply",
+    "restore": "node index.js restore",
+    "extract": "node scripts/extract-strings.js",
+    "build-nls": "node scripts/build-nls-zh.js",
+    "extract-nav": "node scripts/extract-nav-snippets.js",
+    "build-dict": "node scripts/build-dict-candidates.js",
+    "verify": "node scripts/verify-patch.js"
+  },
+  "keywords": [
+    "cursor",
+    "i18n",
+    "chinese",
+    "localization",
+    "zh-CN"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LRZX36/CursorZh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LRZX36/CursorZh/issues"
+  },
+  "homepage": "https://github.com/LRZX36/CursorZh#readme"
+}

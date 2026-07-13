@@ -20,29 +20,21 @@
   <table>
     <tr>
       <td align="center" width="420" valign="top">
-        <a href="docs/screenshots/settings.png">
-          <img src="docs/screenshots/preview-settings.png" alt="设置页" width="400"/>
-        </a><br/>
+        <img src="docs/screenshots/preview-settings.png" alt="设置页" width="400"/><br/>
         <sub><b>设置页</b></sub>
       </td>
       <td align="center" width="420" valign="top">
-        <a href="docs/screenshots/agent.png">
-          <img src="docs/screenshots/preview-agent.png" alt="智能体" width="400"/>
-        </a><br/>
+        <img src="docs/screenshots/preview-agent.png" alt="智能体" width="400"/><br/>
         <sub><b>智能体界面</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="420" valign="top">
-        <a href="docs/screenshots/menu.png">
-          <img src="docs/screenshots/preview-menu.png" alt="顶部菜单" width="400"/>
-        </a><br/>
+        <img src="docs/screenshots/preview-menu.png" alt="顶部菜单" width="400"/><br/>
         <sub><b>顶部菜单</b></sub>
       </td>
       <td align="center" width="420" valign="top">
-        <a href="docs/screenshots/editor.png">
-          <img src="docs/screenshots/preview-editor.png" alt="编辑器" width="400"/>
-        </a><br/>
+        <img src="docs/screenshots/preview-editor.png" alt="编辑器" width="400"/><br/>
         <sub><b>编辑器界面</b></sub>
       </td>
     </tr>

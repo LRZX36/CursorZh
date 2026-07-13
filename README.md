@@ -24,7 +24,7 @@
         <sub><b>设置页</b></sub>
       </td>
       <td align="center" width="420" valign="top">
-        <img src="docs/screenshots/preview-agent.png" alt="智能体" width="400"/><br/>
+        <img src="docs/screenshots/preview-agent-v2.png" alt="智能体" width="400"/><br/>
         <sub><b>智能体界面</b></sub>
       </td>
     </tr>
